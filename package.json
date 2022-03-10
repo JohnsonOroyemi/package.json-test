@@ -4,9 +4,8 @@
 	"description": "A project that manages information between the field team and office",
 	"keywords": [ "construction", "field", "site", "information", "data", "freecodecamp" ],
 	"license": "MIT",
-	"version": "3.2.2",
 	"dependencies": {
-		"package-name": "moment",
+		"package-name": "version",
 		"package": "MAJOR.MINOR.PATCH",
 		"express": "~2.14.0"
 		
