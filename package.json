@@ -4,9 +4,11 @@
 	"description": "A project that manages information between the field team and office",
 	"keywords": [ "construction", "field", "site", "information", "data", "freecodecamp" ],
 	"license": "MIT",
-	"version": "3.2.2",
+	"version": "1.2.0",
 	"dependencies": {
-		"moment": "~2.14.0"
+		 "package-name": "version",
+  		 "express": "4.14.0"
+		 "moment": "~2.14.0"
 		
 	},
 	"main": "server.js",
