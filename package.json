@@ -1,0 +1,22 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Johnson Oroyemi",
+	"description": "A project that manages information between the field team and office",
+	"keywords": [ "construction", "field", "site", "information", "data", "freecodecamp" ],
+	"license": "MIT",
+	"version": "3.2.2",
+	"dependencies": {
+		"package-name": "moment",
+		"package": "MAJOR.MINOR.PATCH",
+		"express": "~2.14.0"
+		
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
