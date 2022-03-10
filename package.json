@@ -5,8 +5,6 @@
 	"keywords": [ "construction", "field", "site", "information", "data", "freecodecamp" ],
 	"license": "MIT",
 	"dependencies": {
-		"package-name": "version",
-		"package": "MAJOR.MINOR.PATCH",
 		"express": "~2.14.0"
 		
 	},
